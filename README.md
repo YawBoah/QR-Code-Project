@@ -1,4 +1,8 @@
 # 🚀 QR Code Generator 🤖
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/QR-Code-Project)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/QR-Code-Project)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/QR-Code-Project)
+
 Generate QR codes effortlessly with this powerful command-line tool. Simplify the process by entering the URL, and watch it create a dazzling QR code image while saving the URL in a text file. It's tech magic in action! ✨
 
 ## Prerequisites 🛠️
