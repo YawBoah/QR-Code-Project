@@ -23,14 +23,14 @@ Ensure you have [Node.js](https://nodejs.org/)  installed on your machine. If no
 - [qr-image](https://www.npmjs.com/package/qr-image): The magical scroll for generating QR code images.
 - [fs](https://nodejs.org/api/fs.html): A venerable tome in the Node.js library for file system wizardry.
 
-## Example Spell 🔮
+## Example Spell🔮
 ```bash
 npm start
 ```
 
-## License 📜
+## License📜
 This enchanting project is governed by the MIT License - traverse the [LICENSE](LICENSE) tome for insights.
 
-Feel the arcane energy? Contribute and amplify the magic. Happy coding, sorcerer of QR codes! 🌟
+Feel the arcane energy? Contribute and amplify the magic. Happy coding, sorcerer of QR codes!🌟
 
-This README adds a touch of magic to the QR Code Generator tool, infusing technical details with exciting emojis and a whimsical tone. Customize it further to suit your project's unique charm! 🌈✨
+This README adds a touch of magic to the QR Code Generator tool, infusing technical details with exciting emojis and a whimsical tone. Customize it further to suit your project's unique charm!🌈✨
