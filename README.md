@@ -18,7 +18,7 @@ Ensure you have [Node.js](https://nodejs.org/)  installed on your machine. If no
 2. Channel your inner URL wizard and input the desired incantation when prompted.
 3. Behold! A QR code image (`qr_img.png`) materializes, and the URL is transcribed into a text file (`URL.txt`).
 
-## Dependencies 🧩
+## Dependencies🧩
 - [inquirer](https://www.npmjs.com/package/inquirer): Your trusty sidekick for interactive command-line prompts.
 - [qr-image](https://www.npmjs.com/package/qr-image): The magical scroll for generating QR code images.
 - [fs](https://nodejs.org/api/fs.html): A venerable tome in the Node.js library for file system wizardry.
