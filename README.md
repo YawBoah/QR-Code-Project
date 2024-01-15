@@ -8,12 +8,12 @@ Generate QR codes effortlessly with this powerful command-line tool. Simplify th
 ## Prerequisites🛠️
 Ensure you have [Node.js](https://nodejs.org/)  installed on your machine. If not, let's get you set up for coding greatness.
 
-## Getting Started 🚀
+## Getting Started🚀
 1. Clone the repository to your local machine and immerse yourself in the QR Code Generator world.
 2. Open a terminal window and navigate to the project directory.
 3. Execute `npm install` to summon the dependencies needed for this quest.
 
-## Usage 🎮
+## Usage🎮⚙ 
 1. Conjure QR codes by casting the spell: `npm start` in your terminal.
 2. Channel your inner URL wizard and input the desired incantation when prompted.
 3. Behold! A QR code image (`qr_img.png`) materializes, and the URL is transcribed into a text file (`URL.txt`).
