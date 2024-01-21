@@ -31,6 +31,6 @@ npm start
 ## License📜
 This enchanting project is governed by the MIT License - traverse the [LICENSE](LICENSE) tome for insights.
 
-Feel the arcane energy?  Contribute and amplify the magic. Happy coding, sorcerer of QR codes!🌟
+Feel the arcane energy ⛮?  Contribute and amplify the magic. Happy coding, sorcerer of QR codes lines ⚟!🌟
 
 This README adds a touch of magic to the QR Code Generator tool, infusing technical details with exciting emojis and a whimsical tone. Customize it further to suit your project's unique charm!🌈✨
